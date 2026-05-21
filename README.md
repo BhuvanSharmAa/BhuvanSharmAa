@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Bhuvan Sharma.
-- 
 - 📫 How to reach me bhuvansharma971@gmail.com
   #  About Me:
 🌱 Currently learning and building in Web Development
