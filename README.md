@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bhuvan Sharma.
 - 📫 How to reach me bhuvansharma971@gmail.com
   #  About Me:
-🌱 Currently learning and building in Web Development
+🌱 Currently learning and building in Web Development, LLM, Gen-AI and Agentic AI workflows.
 
 💡 Passionate about creating clean, scalable, and user-friendly applications
 
